@@ -9,17 +9,17 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-## Step1:
-Import the sys module
-## Step2:
-Pass the filename as the first argument after the name of script.Open the file as sys.argv[1]
-## Step3:
-Read the file using read()
-## Step4:
-Use split() method to Spilt the file content into words
-## Step5:
-use len() to find the total words
-
+### Step1:
+Initiate the MobileRobot.
+### Step2:
+ Connect your PC with the MobileRobot through Wi-Fi.
+### Step3:
+Open batter_level.py file and check the battery.
+### Step4:
+Open the other Python files and Program the movements of the robot using python.
+### Step5:
+ Execute the python program and record the movements.
+ 
 ## Program
 #DEVELOPED BY : Visalan H
 #REGISTER NUMBER : 212223240183
@@ -105,17 +105,11 @@ if _name_ == '_main_':
 
 
 https://youtu.be/v5N_p11ex0U
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
