@@ -8,7 +8,6 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-
 ### Step1:
 Initiate the MobileRobot.
 ### Step2:
@@ -19,9 +18,8 @@ Open batter_level.py file and check the battery.
 Open the other Python files and Program the movements of the robot using python.
 ### Step5:
  Execute the python program and record the movements.
- 
 ## Program
-```python
+```
 #DEVELOPED BY : Visalan H
 #REGISTER NUMBER : 212223240183
 from robomaster import robot
@@ -80,11 +78,9 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 ![mobrob](https://github.com/Visalan-H/mobilerobot-openloopcontrol/assets/152077751/a34d6c0f-eb72-4d05-a98a-faa98eadd89d)
 ## MobileRobot Movement Video:
-https://youtu.be/v5N_p11ex0U
+# https://youtu.be/v5N_p11ex0U
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
