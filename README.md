@@ -67,15 +67,14 @@ if _name_ == '_main_':
     ep_led.set_led(comp = "all",r=51,g=51,b=0,effect="on")
     ep_chassis.move(x=0, y=0, z=0, xy_speed=1).wait_for_completed()
     ep_led.set_led(comp = "all",r=153,g=153,b=255,effect="on")
-
     time.sleep(4)
     ep_camera.stop_video_stream()
     print("Stopped video streaming.....")
-
     ep_robot.close()
 ```
 ## MobileRobot Movement Image:
 ![robo](./img/robomaster.png)
+
 ![mobrob](https://github.com/Visalan-H/mobilerobot-openloopcontrol/assets/152077751/a34d6c0f-eb72-4d05-a98a-faa98eadd89d)
 ## MobileRobot Movement Video:
 # https://youtu.be/v5N_p11ex0U
