@@ -16,7 +16,7 @@ Pass the filename as the first argument after the name of script.Open the file a
 ## Step3:
 Read the file using read()
 ## Step4:
-Use spli() method to Spilt the file content into words
+Use split() method to Spilt the file content into words
 ## Step5:
 use len() to find the total words
 
@@ -98,13 +98,8 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+![mobrob](https://github.com/Visalan-H/mobilerobot-openloopcontrol/assets/152077751/a34d6c0f-eb72-4d05-a98a-faa98eadd89d)
 
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
