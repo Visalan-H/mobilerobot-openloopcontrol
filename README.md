@@ -77,8 +77,7 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 ### img:
-| ![mobrob](https://github.com/Visalan-H/mobilerobot-openloopcontrol/assets/152077751/a34d6c0f-eb72-4d05-a98a-faa98eadd89d) |
-|:--:|
+![mobrob](https://github.com/Visalan-H/mobilerobot-openloopcontrol/assets/152077751/a34d6c0f-eb72-4d05-a98a-faa98eadd89d)
 ## MobileRobot Movement Video:
 (https://youtu.be/v5N_p11ex0U?si=6KyKOoVynWKWNPX6)
 ## Result:
